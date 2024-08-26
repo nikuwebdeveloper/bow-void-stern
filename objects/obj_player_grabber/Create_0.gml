@@ -1,0 +1,11 @@
+visible = false
+reach = false
+target = noone
+sp = 1
+spMax = 4
+acc = 0.5
+dcc = 0.2
+playerDist = 0
+playerDistChunk = 0
+makeBeam = true
+beam = noone
